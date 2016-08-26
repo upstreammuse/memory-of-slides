@@ -1,0 +1,12 @@
+The application icon is provided under the terms of the Creative Commons
+Attribution license 4.0 as found at
+
+http://creativecommons.org/licenses/by/4.0/
+
+Under the terms of this license, a link to the original artist is provided here.
+
+http://www.iconarchive.com/artist/danieledesantis.html
+
+We are grateful for the work of this artist, and we are additionally grateful
+that such high-quality works are given away freely.  We hope to continue this
+trend as developers by releasing Memory Of Slides under the GPL.
