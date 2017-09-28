@@ -10,4 +10,5 @@ SOURCES += \
 OTHER_FILES += \
    LICENSE.txt
 ICON = Danieledesantis-Audio-Video-Outline-Shuffle.icns
+RC_FILE = mos.rc
 TARGET = MemoryOfSlides
